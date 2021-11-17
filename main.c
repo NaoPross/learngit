@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-	int variable = 10;
+	int foo = 10;
 	return 0;
 }
